@@ -1,0 +1,4 @@
+category: KDE Games
+requires: libgcc1 libkdecore5 libkdeedu4 libQtCore4 libQtDBus4 libQtGui4 libstdc++6
+sdesc: "KDE vocabulary flashcard trainer"
+ldesc: "KDE education suite"
