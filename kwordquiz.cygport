@@ -6,3 +6,5 @@ RELEASE=1
 CATEGORY="Games"
 SUMMARY="KDE vocabulary flashcard trainer"
 DESCRIPTION="Part of the KDE education suite"
+
+REQUIRES="kde-runtime"
